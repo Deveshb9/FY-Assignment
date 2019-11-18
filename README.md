@@ -1,2 +1,3 @@
-# FYpros
-All the basic programs used in CSIT and for begineers
+# FY-Assignment
+Trimester II
+Trimester III
