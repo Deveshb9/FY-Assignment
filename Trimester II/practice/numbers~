@@ -1,0 +1,20 @@
+#include<stdio.h>
+main()
+{
+  int ch=0;
+  printf("Enter number b/w 1 to 10 to print them in words:");
+  scanf("%d",&ch);
+  switch(ch)
+  {
+  case 1:printf("\none\n");
+  break;
+  case 2:printf("\ntwo\n");
+  break;
+  case 3:printf("\nthree\n");
+  break;
+  case 4:printf("\nfour\n");
+  break;
+  case 5:printf("\nfive\n");
+  break;
+  default: printf("Wrong entry\n");
+
